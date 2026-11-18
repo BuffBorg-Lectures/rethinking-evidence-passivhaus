@@ -32,4 +32,7 @@ While this pilot project focuses on the foundational and alternative mechanisms 
 * **[`summon`](https://docs.scala-lang.org/scala3/guides/macros/compiletime.html#summoning) based methods**
 * **[Macros](https://docs.scala-lang.org/scala3/guides/macros/macros.html) with [Quotes (`'{...}`) and Splices (`${...}`)](https://docs.scala-lang.org/scala3/guides/macros/quotes.html)**
 
-![WELCOME](https://c.tenor.com/9R40vVZvvtoAAAAC/tenor.gif)
+
+<p align="center">
+  <img src="https://c.tenor.com/9R40vVZvvtoAAAAC/tenor.gif" alt="WELCOME" />
+</p>
